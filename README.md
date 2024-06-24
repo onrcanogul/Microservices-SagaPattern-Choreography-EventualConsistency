@@ -1,4 +1,5 @@
-![WhatsApp Görsel 2024-06-24 saat 15 33 04_94f7f872](https://github.com/onrcanogul/sagapattern-choreography-eventualconsistency/assets/147406204/c61c4383-ae74-45b5-ab71-660497ab2713)The saga choreography pattern helps preserve data integrity in distributed transactions that span multiple services by using event subscriptions. In a distributed transaction, multiple services can be called before a transaction is completed. When the services store data in different data stores, it can be challenging to maintain data consistency across these data stores.
+# Microservices-Eventual Consistency-Saga Pattern
+The saga choreography pattern helps preserve data integrity in distributed transactions that span multiple services by using event subscriptions. In a distributed transaction, multiple services can be called before a transaction is completed. When the services store data in different data stores, it can be challenging to maintain data consistency across these data stores.
 
 We are created dummy data for Stock.API. We used this data as a client.
 
