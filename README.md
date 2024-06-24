@@ -21,7 +21,7 @@ PaymentCompleted(result is true in StockReservedEventConsumer) :
 ![WhatsApp Görsel 2024-06-24 saat 15 33 34_4d9b2663](https://github.com/onrcanogul/sagapattern-choreography-eventualconsistency/assets/147406204/beae29aa-977f-490d-95fe-b5881837cd68)
 ![WhatsApp Görsel 2024-06-24 saat 15 33 54_877092b4](https://github.com/onrcanogul/sagapattern-choreography-eventualconsistency/assets/147406204/33529587-aabd-4f20-b5b3-b67d384f55a5)
 
-Dummy data:
+Request:
 ```
 {
   "buyerId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
